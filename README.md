@@ -1,7 +1,7 @@
 # snakebattle
 Joguinho feito por hobbie, vou colocar ele online para batalhas de players entre si com vários poderes, estou fazendo no meu tempo livre.
 
-Coisas Para serem implatadas:
+Coisas para serem implatadas:
 1. divisão correta dos poderes e objetos a serem pegos no mapa.
 
 2. personalização de skins das cobras.
