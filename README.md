@@ -3,11 +3,17 @@ Joguinho feito por hobbie, vou colocar ele online para batalhas de players entre
 
 Coisas Para serem implatadas:
 1 divisão correta dos poderes e objetos a serem pegos no mapa.
+
 2 personalização de skins das cobras.
+
 3 adicionar poderes para as cobras.
+
 3.1 turbo
+
 3.2 deixar um pedaço da calda como granada.
+
 3.3 laser saindo da boca da cobra.
+
 3.4 troca de pele para ficar maior por um tempo e depois voltar ao tamanho original.
 
 
