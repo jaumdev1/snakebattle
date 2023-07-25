@@ -30,9 +30,9 @@ function drawSnake() {
     
   snake.forEach(function(block, index) {
     if(index % 2== 0)
-    ctx.fillStyle = "#ff753a";
+    ctx.fillStyle = "##0000CD";
     else
-    ctx.fillStyle = "#ff0000";
+    ctx.fillStyle = "#2F4F4F";
 
     ctx.fillRect(block.x * blockSize, block.y * blockSize, blockSize, blockSize);
   });
