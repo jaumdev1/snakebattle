@@ -25,3 +25,5 @@ html css e js
 5. dicas e sugestões são bem vindas
 
 Faço no meu tempo livre, tenho estudado muito ultimamente.
+
+data de retorno para esse projeto em 15/01/2024, pois estou estudando outras coisas!
