@@ -26,4 +26,6 @@ html css e js
 
 Faço no meu tempo livre, tenho estudado muito ultimamente.
 
-data de retorno para esse projeto em 15/01/2024, pois estou estudando outras coisas!
+
+
+finalizado e migrando para c#.
