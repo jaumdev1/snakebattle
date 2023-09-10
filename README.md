@@ -12,7 +12,7 @@ Coisas para serem implatadas:
 
 3.2 deixar um pedaço da calda como granada.
 
-3.3 laser saindo da boca da cobra.
+3.3 laser saindo da boca da cobra..
 
 3.4 troca de pele para ficar maior por um tempo e depois voltar ao tamanho original.
 
