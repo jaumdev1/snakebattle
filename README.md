@@ -1,6 +1,8 @@
 # snakebattle
 Joguinho feito por hobbie, vou colocar ele online para batalhas de players entre si com vários poderes, estou fazendo no meu tempo livre.
 
+Aperte A para atirar e ESPAÇO para correr.
+
 Coisas para serem implatadas: 
 1. divisão correta dos poderes e objetos a serem pegos no mapa.
 
